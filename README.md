@@ -3,6 +3,6 @@
 
 ## <a id="效果图"></a>效果图
 
-![效果图描述](http://github.com/easyhaipi/picsUploadAndShow/raw/master/upload.gif)
+![效果图描述](http://github.com/easyhaipi/picsUploadAndShow/raw/master/uploadPics.gif)
   
 
